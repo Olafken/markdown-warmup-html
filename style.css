@@ -1,1 +1,16 @@
-
+ .Titel{
+        text-align: center;
+        font-family: verdana;
+        font-size: 50px;
+    }
+.link{
+    text-align: left;
+    font-family: verdana;
+    font-size: 24px;
+    
+}
+.link2{
+    text-align: left;
+    font-family: verdana;
+    font-size: 15px; 
+}
